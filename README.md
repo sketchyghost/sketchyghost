@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sketchyghost
-- 👀 I’m interested in ...collaborating on a game
-- 🌱 I’m currently learning ...how to use github, lol
-- 💞️ I’m looking to collaborate on ...the Bored Pixels Jam
-- 📫 How to reach me ...
+- 👀 I’m interested in ...collaborating on games!
+- 🌱 I’m currently learning ...honestly? Github
+- 💞️ I’m looking to collaborate on ...Game and art adjacent projects!
+- 📫 How to reach me ...info at Carlbeu.com
 
 <!---
 sketchyghost/sketchyghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
